@@ -1,5 +1,6 @@
 # Text Summarizer using OpenAI API
 
+![image](https://github.com/amandotexe/Text-Summariser/assets/71628234/bd13c8db-e7a4-47f6-abc3-d1e0e867dd34)
 
 This is project uses the OpenAI API to generate a summary of a given text. The summary will consist of a few sentences that capture the main idea of the text.
 
